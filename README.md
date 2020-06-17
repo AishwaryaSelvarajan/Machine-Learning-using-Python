@@ -1,0 +1,2 @@
+# Machine-Learning-using-Python
+This repository contains the machine learning concepts implemented in Python. This has workouts on basics of numpy, pandas,matplotlib. The application using these libraries includes Data Visualisation, Salary Prediction using Linear Regression, Image Classification using K - Nearest Neighbours (KNN), Web Scraping and SentimentIntensity Analysis of Amazon review and twitter tweets using BeautifulSoup, Face Detection, MNIST Hand Written Digit Recognition and designing of a Neural Network.
